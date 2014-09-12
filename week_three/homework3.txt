@@ -1,7 +1,0 @@
-rails
-
-nokogiri
-
-facebook
-
-twitter
